@@ -1,1 +1,0 @@
-cd /home/user/projects/HttpServer/; g++ -o "/home/user/projects/HttpServer/bin/x64/Debug/HttpServer.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /home/user/projects/HttpServer/obj/x64/Debug/main.o /home/user/projects/HttpServer/obj/x64/Debug/server.o
